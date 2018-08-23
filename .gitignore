@@ -1,6 +1,6 @@
 # exclude everything
 checkpoints/*.hdf5
-
+checkpoints/*/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
